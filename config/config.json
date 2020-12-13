@@ -1,7 +1,5 @@
 {
     "development": {
-        //"username": "edgar",
-        //"password": "password",
         "dialect": "sqlite",
         "storage": "./database.sqlite3"
     },
